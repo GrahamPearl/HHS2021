@@ -24,10 +24,6 @@ header {
     text-align: center;
 }
 
-img {
-    width: 80%;
-}
-
 label {
     display: inline-block;
     min-width: 120px;
